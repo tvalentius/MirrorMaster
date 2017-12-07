@@ -1,5 +1,5 @@
 # MirrorMaster
-Example React Simple App for Facebook Masterclass Workshop - React Module
+Example React Simple App for Facebook Masterclass Workshop - React & React Native Module
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
